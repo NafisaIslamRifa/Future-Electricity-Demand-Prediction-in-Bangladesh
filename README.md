@@ -21,8 +21,8 @@ This project focuses on forecasting future electricity demand in Bangladesh usin
 ## Models Used
 - Linear Regression
 - Random Forest
-- LSTM (optional)
-- ARIMA (optional)
+- LSTM 
+- ARIMA 
 
 ## Technologies
 - Python
@@ -35,12 +35,7 @@ This project focuses on forecasting future electricity demand in Bangladesh usin
 ## Results
 The model successfully predicts future electricity demand trends based on historical consumption patterns.
 
-## Project Structure
-Future-Electricity-Demand-prediction-in-bd/
-│
-├── electricity_prediction.ipynb
-├── README.md
-└── dataset.csv
+
 ## Future Work
 - Add deep learning models
 - Use real-time energy data
